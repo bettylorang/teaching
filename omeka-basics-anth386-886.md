@@ -34,7 +34,9 @@ Status of setting up Create UNL and installing Omeka?
 - Collections and exhibits
 
 ###Resources
-- [Omeka website] (http://omeka.org/)
-- [Omeka forums] (https://forum.omeka.org/)
+- [Digital Public Library of America](https://dp.la/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+- [Omeka website](http://omeka.org/)
+- [Omeka forums](https://forum.omeka.org/)
 - [Getty Vocabularies](http://www.getty.edu/research/tools/vocabularies/)
 - Many more resources for specific types of needs. Get in touch with me with questions.
